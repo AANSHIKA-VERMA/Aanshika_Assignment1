@@ -1,0 +1,3 @@
+this is the source file .
+this content will copied to destination file.
+file handling is used in the program.
